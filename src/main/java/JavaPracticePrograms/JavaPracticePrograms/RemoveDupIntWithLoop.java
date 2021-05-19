@@ -1,3 +1,4 @@
+package JavaPracticePrograms.JavaPracticePrograms;
 
 public class RemoveDupIntWithLoop {
 
